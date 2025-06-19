@@ -11,7 +11,6 @@ Développer un outil capable de prédire les résultats électoraux dans un sect
 
 **Client fictif** : Jean-Edouard de la Motte Rouge
 - Start-up spécialisée dans le conseil en campagnes électorales
-- Équipe : 1 expert en analyse politique + 1 business developer + 1 assistant
 - **Besoin** : Obtenir un avantage concurrentiel grâce à l'IA prédictive
 
 ## Zone d'Étude : Normandie
